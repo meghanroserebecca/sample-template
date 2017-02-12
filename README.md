@@ -11,3 +11,4 @@ files for linux, windows, OSX, whatever, and c/p into .gitignore file.
 ## Make sure to add in your teammates' OS and editor gitignore code, too!
 
 7. Remove extra comments - leave only the hash comments to signify windows, vscode, node
+8. Add a .eslintrc file (or type eslint --init in the command line; make sure you have eslint installed globally)
